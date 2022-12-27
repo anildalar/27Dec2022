@@ -1,0 +1,40 @@
+Javascript Class
+
+
+1. Functions.
+
+function add(){
+}
+
+function subtract(){
+
+}
+
+function multiply(){
+}
+
+
+2. Class can contain Functions
+
+
+class Calculator{
+		
+		//Method = Function
+		add(){
+		}
+		subtract(){
+
+		}
+		multiply(){
+		}
+
+}
+
+Create Classes from A to Z
+
+Define some methods 
+
+Call/Execute/Invocation those method 
+		
+
+			
